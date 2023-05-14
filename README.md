@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm soberHacker!
 
-- 🔭 I’m currently working on developing a startup in the field of preventive medicine and health promotion.
+- 🔭 I’m currently working on developing a startup in the field of preventive healthcare and health promotion.
 - 🌱 I’m currently learning English and Portuguese languages, content creation using the Zettelkasten method, and everything related to creating and developing startups.
 - 👯 I’m looking to collaborate on projects related to preventive medicine, health promotion, and startups.
 - 🤔 I’m looking for help with expanding my knowledge and network in the fields of health and startup development.
